@@ -1,8 +1,10 @@
-## Your Name
+## Abigail (Abi) Makovsky
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Junior Full-Stack Software Engineer in training at Makers Academy, sponsored by my employer, Monzo. 
 
-## Projects
+## Projects 
+
+(Nothing to see here yet) 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -11,15 +13,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Monzo Bank** (March 2020 to current)  
+_Customer Operations Associate_ 
+  - Worked in a variety of teams and roles throughout my tenure in Customer Operations
+  - Spent 1.5 years as a Fincrime Investigator - both personal and business banking 
+  - Spent 1 year as a 'frontline' onboarding coach, teaching new starters the hands-on skills they needed for the role 
+  - Spent 6 months as a Card Payment Dispute specialist, investigating and raising disputes on behalf of customers to Mastercard 
 
 ## Skills
 
@@ -53,25 +52,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2023 cohort)
 
-#### Your University / College (start_date to end_date)
+#### Arcadia University, USA (August 2014 to May 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- International Studies (major), Linguistics (minor)
+- 3.67 GPA 
+- Academic Achievement Scholarship - Arcadia University 
+- Phi Beta Delta - International Honor Society 
+- Cum Laude - Arcadia University 
+- Departmental Honors - Arcadia University 
+
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- ICA Certificate in Anti Money Laundering 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+
+- 
